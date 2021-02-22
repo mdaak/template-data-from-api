@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(112, 130, 148);
+}
+.user-style{
+    border-radius: 20px;
+    background-color: rgb(174, 230, 195);
+    /* text-align: center; */
+    margin: 50px;
+    padding: 10px;
+    color: rgb(33, 4, 161);
+    box-shadow: 5px 5px 20px crimson;  
+}
+
